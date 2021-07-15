@@ -1,0 +1,15 @@
+**/quartus/*
+!*.sof
+!*.qsf
+!*.qpf
+**/design_library
+**/test_library
+**/test_library
+**/dump/*
+*.vstf
+*.wlf
+transcript
+modelsim.ini
+**/__Previews/
+out.map
+*.cof

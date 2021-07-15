@@ -1,0 +1,9 @@
+*
+!/**/
+!*.*
+modelsim.ini
+design_library/
+test_library/
+*.wlf
+*.vstf
+
